@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# wed102
+#
+
+projectname: wed102
+vendorid: com.luis.wed
+mainmodule: com.luis.wed.wed102
